@@ -2,4 +2,4 @@
 - 👀 I’m interested mostly in Web development.
 - 🌱 I’m currently learning both Front-end & Back-end development.
 - 💞️ I’m looking to collaborate on web projects.
-- 📫 You can reach me at my mail - @palaskarajinkya22@gmail.com
+- 📫 You can reach me at my mail - palaskarajinkya22@gmail.com
