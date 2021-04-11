@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajinkya Palaskar! I'm a Computer Science student.
 - 👀 I’m interested mostly in Web development.
-- 🌱 I’m currently learning both Front-end & Back-end development.
+- 🌱 I’m currently learning React & Node.js.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 You can reach me at my mail - palaskarajinkya22@gmail.com
