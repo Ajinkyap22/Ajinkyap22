@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **palaskarajinkya22@gmail.com**
 
+- ⚡ Fun Fact - I can write switch case without looking up the syntax. Crazy, right?
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ajinkya-palaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajinkya-palaskar" height="30" width="40" /></a>
