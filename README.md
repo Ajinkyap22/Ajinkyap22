@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **palaskarajinkya22@gmail.com**
 
-- ⚡ Fun Fact - I can write switch case without looking up the syntax. Crazy, right?
+<!-- - ⚡ Fun Fact - I can write switch case without looking up the syntax. Crazy, right? -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
