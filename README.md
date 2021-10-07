@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **HTML, Javascript, CSS, React,js, Node,js, Express**
+- 💬 Ask me about **Javascript, HTML, CSS, React,js, Node,js, Express**
 
 - 📫 How to reach me **palaskarajinkya22@gmail.com**
 
