@@ -2,7 +2,7 @@
 <h3 align="center">A Fullstack Developer and a Computer Science Student from Pune,India</h3>
 
 
-- 🌱 I’m currently learning **Node.js and Express**
+- 🌱 I’m currently working on my **Portfolio Site**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
