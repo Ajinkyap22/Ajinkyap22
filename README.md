@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Javascript, HTML, CSS, React,js, Node,js, Express**
+- 💬 Ask me about **Javascript, HTML, CSS, React,js, Node,js, Express, MongoDB & other Full Stack related topics.**
 
 - 📫 How to reach me **palaskarajinkya22@gmail.com**
 
