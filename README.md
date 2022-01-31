@@ -4,13 +4,7 @@
 
 - 🌱 I’m currently working on my **Portfolio Site**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 💬 Ask me about **Javascript, HTML, CSS, React,js, Node,js, Express, MongoDB & other Full Stack related topics.**
-
 - 📫 How to reach me **palaskarajinkya22@gmail.com**
-
-<!-- - ⚡ Fun Fact - I can write switch case without looking up the syntax. Crazy, right? -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
