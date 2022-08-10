@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Palaskar</h1>
-<h3 align="center">A Softtware Engineer from Pune,India</h3>
+<h3 align="center">A Software Engineer from Pune,India</h3>
 
 - 👩‍💻 [My Portfolio Site](https://ajinkyapalaskar.me/) 
 
