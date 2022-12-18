@@ -3,8 +3,6 @@
 
 - 👩‍💻 [My Portfolio Site](https://ajinkyapalaskar.me/) 
 
-- 🌱 I’m currently working on my **Portfolio Site**
-
 - 📫 How to reach me **palaskarajinkya22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
