@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajinkyap22" alt="ajinkyap22" /></a> </p>
 
-- 👨‍💻 My Portfolio Site [ajinkyapalaskar.me](https://www.ajinkyapalaskar.me)
+- 👨‍💻 My [Portfolio Site](https://ajinkyapalaskar.netlify.app/)
 
 - 📫 How to reach me **palaskarajinkya22@gmail.com**
 
