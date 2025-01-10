@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajinkyap22" alt="ajinkyap22" /></a> </p>
 
-- 📝 I regularly write articles on [https://ajinkyap.hashnode.dev/](https://ajinkyap.hashnode.dev/)
+- Checkout my [macOS themed Portfolio](https://ajinkyap.dev/)
+
+- 📝 I occasionally write articles on [https://ajinkyap.hashnode.dev/](https://ajinkyap.hashnode.dev/)
 
 - 📫 How to reach me **palaskarajinkya@gmail.com**
 
