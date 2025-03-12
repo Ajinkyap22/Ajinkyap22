@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajinkya</h1>
-<h3 align="center">A full-stack developer that enjoys creating applications that work smoothly all around.</h3>
+<h3 align="center">I build stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyap22&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyap22" /> </p>
 
